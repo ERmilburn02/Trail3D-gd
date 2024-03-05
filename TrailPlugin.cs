@@ -1,5 +1,5 @@
+#if TOOLS
 using Godot;
-using System;
 
 [Tool]
 public partial class TrailPlugin : EditorPlugin
@@ -16,3 +16,4 @@ public partial class TrailPlugin : EditorPlugin
 		RemoveCustomType("Trail3D");
 	}
 }
+#endif

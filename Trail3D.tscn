@@ -12,7 +12,5 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.76589, 2.92966, 0)
 script = ExtResource("1_rq8x1")
 emitting = true
 duration = 2.0
-snapshotInterval = 0.02
-width = 1.0
 widthCurve = SubResource("Curve_prbrg")
 material = ExtResource("2_viah1")
